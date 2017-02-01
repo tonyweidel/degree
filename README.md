@@ -1,2 +1,1 @@
-# degree
-degree sumthin or anther
+# Degree
