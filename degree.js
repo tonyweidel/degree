@@ -18,7 +18,8 @@ function degree(mtrx,v){
 return sum
 
 function degreecentrality(){
-
+  let neighbors = mtrx.size()[0]-1;
+  return degree(mtrx,v)/neighbors;
 }
 
 //Challenge
